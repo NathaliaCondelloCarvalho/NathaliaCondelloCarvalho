@@ -3,11 +3,11 @@
 <p>Tenho background em gestão, o que me torna capaz de interpretar a estratégia do negócio e aplicar na construção da jornada do cliente.</p>
 
 <h2>Skills e Ferramentas</h2>
-<p>HTML e CSS</p>
-<p>JavaScript</p>
-<p>Figma</p>
-<p>Métodos Ágeis</p>
-<p>Design Thinking</p>
+<p>HTML e CSS
+<br>JavaScript
+<br>Figma
+<br>Métodos Ágeis
+<br>Design Thinking</p>
 
 
 
