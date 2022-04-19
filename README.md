@@ -11,5 +11,5 @@
 
 
 
-Para acessar meu portfólio [clique aqui](https://www.notion.so/nathalia-carvalho/Portfolio-Product-Design-UX-UI-190e5ba7a2d44540bbad91cdd4991c99)
+Para acessar meu portfólio [clique aqui](https://nathaliacondellocarvalho.github.io/challenge-one-portfolio/)
 
